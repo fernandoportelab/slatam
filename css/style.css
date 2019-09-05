@@ -458,6 +458,13 @@ a, input[type="submit"] {
     background-repeat: no-repeat;
 }
 
+.logo-holder .logodi {
+    display: inline-block;
+    background-image: url(../images/logo-discovery.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
 svg.logo {
     width: 62px;
     height: auto;
@@ -518,7 +525,7 @@ svg.logo text {
     position: relative;
     cursor: pointer;
     padding: 9px 30px;
-    background-color: #0d65d8;
+    background-color: #012d78;
     border-radius: 10px;
     color: #ffffff;
     opacity: 1;
@@ -534,7 +541,7 @@ svg.logo text {
 
 .support-button-holder a.support-button:hover, .support-button-holder a.support-button:focus {
     border-radius: 10px;
-    background-color: #0c5cc5 !important;
+    background-color: #003288 !important;
     color: #ffffff !important;
     opacity: 1 !important;
 }
@@ -836,7 +843,7 @@ svg.logo text {
 
 .unity-box .unity-details {
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 500;
     color: #7A7896;
 }
 
