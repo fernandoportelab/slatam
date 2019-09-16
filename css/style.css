@@ -4707,7 +4707,7 @@ svg.logo text {
 
 #page-head .page-title {
     color: #ffffff;
-    font-size: 25px;
+    font-size: 32px;
     font-weight: 300;
     position: relative;
     z-index: 10;
@@ -5814,7 +5814,7 @@ svg.logo text {
 }
 
 #articles .article-summary .article-text {
-    color: #9DA9BC;
+    color: #747c8a;
     font-size: 14px;
     line-height: 22px;
     margin-bottom: 10px;
@@ -7424,3 +7424,4 @@ svg.logo text {
         min-height: 340px;
     }
 }
+
