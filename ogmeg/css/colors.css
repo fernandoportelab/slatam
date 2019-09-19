@@ -514,7 +514,8 @@ blockquote p,
     border-color: #035c96
 }
 .scheme_default .menu_mobile_inner a {
-    color: #202020
+    color: #202020;
+    font-size: 16px;
 }
 .scheme_default .menu_mobile_inner a:hover,
 .scheme_default .menu_mobile_inner .current-menu-ancestor>a,
