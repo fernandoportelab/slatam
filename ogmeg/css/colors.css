@@ -189,10 +189,10 @@ blockquote p,
     color: #787e84
 }
 .scheme_default a {
-    color: #0481ac
+    color: #ff7d2e
 }
 .scheme_default a:hover {
-    color: #035c96
+    color: #ff7d2e
 }
 .scheme_default blockquote {
     color: #202020
@@ -206,7 +206,7 @@ blockquote p,
 .scheme_default .sc_blockquote_content:before,
 .scheme_default blockquote a:hover,
 .scheme_default aside blockquote a:hover {
-    color: #035c96
+    color: #ff7d2e
 }
 .scheme_default table {
     color: #202020
@@ -2466,7 +2466,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark a:hover {
-    color: #035c96
+    color: #fff
 }
 .scheme_dark blockquote {
     color: #ffffff
