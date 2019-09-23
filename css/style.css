@@ -1271,6 +1271,25 @@ svg.logo text {
     -ms-transform: skewY(8deg);
     transform: skewY(8deg);
 }
+.medium-widget-article__title {
+    display: inline-block;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.9);
+    border: none;
+    text-decoration: none;
+    line-height: 20px;
+    text-align: left;
+}
+
+.medium-widget-article__description {
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 5px;
+    line-height: 1.3em;
+    text-align: left;
+    font-size: 13.5px;
+}
 
 #header-holder.main-header .bg-animation .graphic-show .fix-size {
     width: 100%;
