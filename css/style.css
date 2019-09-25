@@ -1177,9 +1177,9 @@ svg.logo text {
     height: 100%;
     background-image: none;
     background-repeat: repeat-x;
-    background-image: -webkit-linear-gradient(150deg, #302327, #a41877);
-    background-image: -o-linear-gradient(150deg, #302327, #a41877);
-    background-image: linear-gradient(150deg, #302327, #a41877);
+    background-image: -webkit-linear-gradient(150deg, #000000, #292929);
+    background-image: -o-linear-gradient(150deg, #000000, #292929);
+    background-image: linear-gradient(150deg, #000000, #292929);
     -webkit-transform-origin: top left;
     -moz-transform-origin: top left;
     -ms-transform-origin: top left;
