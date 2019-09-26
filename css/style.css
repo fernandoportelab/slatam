@@ -237,7 +237,7 @@ a, input[type="submit"] {
 
 .ybtn-header-color:hover, .ybtn-header-color:focus {
     color: #ffffff;
-    background-color: #1888ff;
+    background-color: #012d78;
 }
 
 .ybtn-other-color {
@@ -548,7 +548,7 @@ svg.logo text {
 
 .support-button-holder a.support-button:hover, .support-button-holder a.support-button:focus {
     border-radius: 10px;
-    background-color: #003288 !important;
+    background-color: #012d78 !important;
     color: #ffffff !important;
     opacity: 1 !important;
 }
