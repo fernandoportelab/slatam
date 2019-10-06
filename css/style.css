@@ -1499,7 +1499,7 @@ svg.logo text {
 #header-holder.main-header .header-graphic {
     width: 100%;
     max-width: 640px;
-    opacity: 0;
+ 
 }
 
 @keyframes slide-fade1 {
