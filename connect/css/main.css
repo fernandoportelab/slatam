@@ -544,9 +544,9 @@ section#faq .container {
     content: "";
 }
 .gradient-overlay-blue:before {
-    background-image: -webkit-linear-gradient(150deg,#012d78b8,#0048c3);
-    background-image: -o-linear-gradient(150deg,#012d78b8,#0048c3);
-    background-image: linear-gradient(150deg,#012d78b8,#0048c3);
+    background-image: -webkit-linear-gradient(150deg,#012d78d9,#0048c3);
+    background-image: -o-linear-gradient(150deg,#012d78d9,#0048c3);
+    background-image: linear-gradient(150deg,#012d78d9,#0048c3);
     background-repeat: repeat-x;
 }
 
@@ -1027,7 +1027,7 @@ ul.nav-tabs li:first-child a {
         color: #646f79;
     }
     .header.switched-header .header-section {
-        border-color: rgba(255, 255, 255, 0);
+        box-shadow: 0 4px 14px 0 hsla(0,0%,60.8%,.2);
     }
     .header-navbar-nav .dropdown-menu {
         border: 1px solid rgba(0, 0, 0, 0.1);
