@@ -1936,7 +1936,7 @@ svg.logo text {
 }
 
 .service-box .service-icon img {
-    width: 128px;
+    width: 100%;
 }
 
 .service-box .service-title {
