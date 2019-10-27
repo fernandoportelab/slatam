@@ -12,6 +12,15 @@ mainSlider.slick({
     slidesToShow: 1,
     slidesToScroll: 1
 });
+
+$('.america, .caribbean, .asia').click(function() {
+
+    $('.america, .caribbean, .asia').removeClass('active');
+    $(this).addClass('active');
+    $('.list-productss').hide('fade');
+    $('.list-productss').show('fade');
+  });
+
 // Adding animation to the #main-slider
 mainSlider.on('afterChange', function(event, slick, currentSlide, nextSlide){
     $('.slide > div:nth-child(1)','#main-slider').removeClass("animated");
