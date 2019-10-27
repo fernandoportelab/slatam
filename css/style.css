@@ -7193,6 +7193,10 @@ svg.logo text {
         margin-bottom: 50px;
     }
 
+    #header-holder.none {
+        margin-bottom: 0px;
+    }
+
     .navbar-toggle {
         margin-right: 0;
     }
@@ -7504,3 +7508,119 @@ svg.logo text {
     }
 }
 
+
+
+/* new */
+
+.region.america.active{
+    background-color: rgb(50, 99, 182);
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.region.america.active:hover a {
+    color: white !important;
+}
+
+.region.caribbean.active{
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: rgb(50, 99, 182);
+    cursor: pointer;
+
+    /* filter: invert(49%) sepia(44%) saturate(3564%) hue-rotate(162deg) brightness(95%) contrast(101%); */
+}
+
+.region.caribbean.active:hover a {
+    color: white !important;
+}
+
+.region.asia.active {
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: rgb(50, 99, 182);
+    cursor: pointer;
+
+    /* filter: invert(49%) sepia(44%) saturate(3564%) hue-rotate(162deg) brightness(95%) contrast(101%); */
+}
+
+.region.asia.active:hover a {
+    color: white !important;
+}
+
+.region.america.active  a {
+    color: white !important;
+}
+
+.region.caribbean.active  a {
+    color: white !important;
+}
+
+.region.asia.active a {
+    color: white !important;
+}
+
+
+.region.america:hover {
+    /* color: blue !important; */
+    cursor: pointer;
+}
+
+.region.caribbean:hover {
+    /* color: blue !important; */
+    cursor: pointer;
+}
+
+.region.asia:hover {
+    /* color: blue !important; */
+    cursor: pointer;
+}
+
+
+
+.region.america:hover a {
+    color: blue !important;
+    /* cursor: pointer; */
+}
+
+.region.caribbean:hover a {
+    color: blue !important;
+    /* cursor: pointer; */
+}
+
+.region.asia:hover a {
+    color: blue !important;
+    /* cursor: pointer; */
+}
+
+
+.li-product-text {
+    font-size: 15px;
+    font-weight: bold;
+    color: #2F3C52;
+    /* text-decoration: none; */
+}
+
+/* .li-product-text a { */
+/* } */
+
+.li-product-text:hover {
+    color: #3195ff;
+    background-color: #f7f6f8;
+    text-decoration: none;
+
+}
+
+.region-text:hover {
+    text-decoration: none;
+    color: white !important;
+    /* background-color: #f7f6f8  !important;
+    font-weight: bold !important; */
+}
+
+.products-services {
+    width: 50vw;
+    padding: 0;
+}

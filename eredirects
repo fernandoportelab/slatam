@@ -1,0 +1,19 @@
+# Redirect users in Latin America to /es.
+# there CANNOT be spaces in the last parameter: Country=x,y,z or Language=xx,yy
+/  /es   302  Country=ve,ar,bo,cl,co,cr,cu,ec,sv,gt,hn,mx,ni,pa,py,pr,pe,do,uy
+
+# Redirect users to /pt-br.
+# there CANNOT be spaces in the last parameter: Country=x,y,z or Language=xx,yy
+/  /pt-br   302  Country=pt,br
+
+# Redirect users to /ru.
+# there CANNOT be spaces in the last parameter: Country=x,y,z or Language=xx,yy
+/  /ru   302  Country=ru,by,ua,ka,kg,uz
+
+# Redirect users to /zh-cn.
+# there CANNOT be spaces in the last parameter: Country=x,y,z or Language=xx,yy
+/  /zh-cn   302  Country=cn,sg
+
+# Redirect users to /de.
+# there CANNOT be spaces in the last parameter: Country=x,y,z or Language=xx,yy
+/  /de   302  Country=de,at,be,li,ch,lu
